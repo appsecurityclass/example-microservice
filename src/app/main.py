@@ -11,7 +11,7 @@ microservice_title = 'moon_shuttle'
 # Instance of FastAPI Application
 # -----------------------------------------------------------------------------
 app = FastAPI(
-    title="Microservice Template",
+    title="CloudPack",
     description="A FastAPI-based template for Python-based microservices",
     version="1.0.0",
     openapi_url="/openapi.json",
